@@ -1,4 +1,4 @@
-'use strict';
+
 const Discord = require("discord.js");
 var client = new Discord.Client;
 var bot = new Discord.Client;
