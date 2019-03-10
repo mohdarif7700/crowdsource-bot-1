@@ -10,8 +10,8 @@ var hqchannels = ["541515722078158858","459842150323060736","535628205139296256"
 var lochannels = ["541852998280675358","553829751073013761"]
 /** @type {!Array} */
 var bbchannels = ['544021684664008714'];
-/** @type {string} */
-var outputchannel = "553990191212134452";
+/** @type {!Array} */
+var outputchannel = ["553990191212134452","545234140543451147"];
 /**
  * @param {?} context
  * @param {?} xslNode
