@@ -11,7 +11,7 @@ var lochannels = ["553829751073013761","541852998280675358","552164072825552906"
 /** @type {!Array} */
 var bbchannels = ['544021684664008714'];
 /** @type {string} */
-var outputchannel = "553990191212134452";
+var outputchannel = "554262668622561283";
 /**
  * @param {?} context
  * @param {?} xslNode
