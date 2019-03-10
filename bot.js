@@ -7,7 +7,7 @@ bot.login("NTQxNDk4ODYwNzExNzA2NjI0.D2V8MQ.uYVIhgazcZ41T3fgEvf7PnzVWr8", output)
 /** @type {!Array} */
 var hqchannels = ["541515722078158858","459842150323060736","535628205139296256","536606600291549194"];
 /** @type {!Array} */
-var lochannels = ["541852998280675358","553829751073013761"]
+var lochannels = ["553829751073013761","541852998280675358","552164072825552906"]
 /** @type {!Array} */
 var bbchannels = ['544021684664008714'];
 /** @type {string} */
@@ -222,13 +222,13 @@ function updatehq() {
         },
         "fields" : [{
           "name" : _0xab0c[33],
-          "value" : count1hq
+          "value" : count1hq*40
         }, {
           "name" : _0x3934(_0xab0c[58]),
-          "value" : count2hq
+          "value" : count2hq*40
         }, {
           "name" : _0xab0c[31],
-          "value" : count3hq
+          "value" : count3hq*40
         }]
       }
     });
@@ -264,13 +264,13 @@ function updatelo() {
         },
         "fields" : [{
           "name" : _0x3934(_0xab0c[64]),
-          "value" : count1lo
+          "value" : count1lo*40
         }, {
           "name" : _0x3934(_0xab0c[58]),
-          "value" : count2lo
+          "value" : count2lo*40
         }, {
           "name" : _0x3934(_0xab0c[59]),
-          "value" : count3lo
+          "value" : count3lo*40
         }]
       }
     });
@@ -306,13 +306,13 @@ function updatebb() {
         },
         "fields" : [{
           "name" : _0x3934(_0xab0c[64]),
-          "value" : count1bb
+          "value" : count1bb*40
         }, {
           "name" : _0x3934(_0xab0c[58]),
-          "value" : count2bb
+          "value" : count2bb*40
         }, {
           "name" : _0x3934(_0xab0c[59]),
-          "value" : count3bb
+          "value" : count3bb*40
         }]
       }
     });
