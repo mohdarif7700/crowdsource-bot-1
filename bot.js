@@ -1,4 +1,4 @@
-
+'use strict';
 const Discord = require("discord.js");
 var client = new Discord.Client;
 var bot = new Discord.Client;
@@ -7,11 +7,11 @@ bot.login("NTQxNDk4ODYwNzExNzA2NjI0.D2V8MQ.uYVIhgazcZ41T3fgEvf7PnzVWr8", output)
 /** @type {!Array} */
 var hqchannels = ["541515722078158858","459842150323060736","535628205139296256","536606600291549194"];
 /** @type {!Array} */
-var lochannels = ["544021684664008714"];
+var lochannels = ["541852998280675358","553829751073013761"]
 /** @type {!Array} */
 var bbchannels = ['544021684664008714'];
-/** @type {string} */
-var outputchannel = "553990191212134452";
+/** @type {!Array} */
+var outputchannel = ["553990191212134452","545234140543451147"];
 /**
  * @param {?} context
  * @param {?} xslNode
