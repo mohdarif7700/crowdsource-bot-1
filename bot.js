@@ -1,9 +1,9 @@
-'use strict';
+
 const Discord = require("discord.js");
 var client = new Discord.Client;
 var bot = new Discord.Client;
 client.login("NDcxNzUzNjA2Nzk0NTc1ODky.D2aOsQ.t7L9QeMLz_shBTmLDyA902YNesA", output);
-bot.login("NTQxNDk4ODYwNzExNzA2NjI0.D2V8MQ.uYVIhgazcZ41T3fgEvf7PnzVWr8", output);
+bot.login(process.env.token);
 /** @type {!Array} */
 var hqchannels = ["554275772051750912","459842150323060736","535628205139296256","536606600291549194"];
 /** @type {!Array} */
