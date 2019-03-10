@@ -7,7 +7,7 @@ bot.login("NTQxNDk4ODYwNzExNzA2NjI0.D2V8MQ.uYVIhgazcZ41T3fgEvf7PnzVWr8", output)
 /** @type {!Array} */
 var hqchannels = ["541515722078158858","459842150323060736","535628205139296256","536606600291549194"];
 /** @type {!Array} */
-var lochannels = ["553829751073013761","541852998280675358","552164072825552906"];
+var lochannels = ['553829751073013761','541852998280675358','552164072825552906'];
 /** @type {!Array} */
 var bbchannels = ['544021684664008714'];
 /** @type {string} */
@@ -26,7 +26,7 @@ function output(context, xslNode) {
   }
 }
 /** @type {!Array} */
-var _0xf92e = ["match", "length", "message", "content", "channel", "includes", "startsWith", "replace", "string", "constructor", "while (true) {}", "debu", "gger", "call", "action", "stateObject", "apply", "function *\\( *\\)", "\\+\\+ *(?:_0x(?:[a-f0-9]){4,6}|(?:\\b|\\d)[a-z0-9]{1,4}(?:\\b|\\d))", "init", "test", "chain", "input", "channels", "get", "send", "*** Crown bot ***", "Search for HQ in progress.", "Made by niloj#6789", "https://cdn.discordapp.com/avatars/417035136941424663/a_22aa183732043f94959df6ee7d913866.png", 
+var _0xf92e = ["match", "length", "message", "content", "channel", "includes", "startsWith", "replace", "string", "constructor", "while (true) {}", "debu", "gger", "call", "action", "stateObject", "apply", "function *\\( *\\)", "\\+\\+ *(?:_0x(?:[a-f0-9]){4,6}|(?:\\b|\\d)[a-z0-9]{1,4}(?:\\b|\\d))", "init", "test", "chain", "input", "channels", "get", "send", "MATRICKS GAMING", "Search for HQ in progress.", "Made by MATRICKS7700 | 2019", "https://cdn.discordapp.com/avatars/417035136941424663/a_22aa183732043f94959df6ee7d913866.png", 
 "** Results for Answer 2**", "**Results for Answer 3**", "Search for loco in progress.", "**Results for Answer 1**", "Search for brainbaazi in progress.", "fetchMessages", "user", "then", "first", "edit", "log", "Time is up!", "lastMessage", "shift", "push", "0x0", "0x1", "0x2", "i", "0x3", "0x5", "0x4", "0x6", "0", "0xa", "0xb", "0xc", "0xd", "0xe", "0xf", "0x9", "0x8", "0x7", "0x10", "0x11", "0x12", "0x16", "0x17", "0x15", "id", "0x14", "0x13", "0x19", "0x18", "0x1a", "0x1c", "0x1b", "0x1d", "0x1e", "0x1f", 
 "1", "0x20", "2", "3", "on", "/", "0x21", "", "0x22", "hq", "lo", "bb", "0x23", "counter", "0x25", "0x24", "0x29", "0x28", "0x26", "0x27", "0x2a"];
 /** @type {!Array} */
