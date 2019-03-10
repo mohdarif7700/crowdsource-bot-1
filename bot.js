@@ -7,7 +7,7 @@ bot.login("NTQxNDk4ODYwNzExNzA2NjI0.D2V8MQ.uYVIhgazcZ41T3fgEvf7PnzVWr8", output)
 /** @type {!Array} */
 var hqchannels = ["541515722078158858","459842150323060736","535628205139296256","536606600291549194"];
 /** @type {!Array} */
-var lochannels = ["553829751073013761","541852998280675358","552164072825552906"]
+var lochannels = ["553829751073013761","541852998280675358","552164072825552906"];
 /** @type {!Array} */
 var bbchannels = ['544021684664008714'];
 /** @type {string} */
