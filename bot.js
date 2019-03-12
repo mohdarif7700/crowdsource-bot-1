@@ -509,9 +509,4 @@ function _0x3ed473(canCreateDiscussions) {
   }
 }
 ;
-.then(function (message) {
-        message.react("white_check_mark")
-        message.react("negative_squared_cross_mark")
-             
-    
-              });
+
