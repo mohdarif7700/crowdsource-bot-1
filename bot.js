@@ -5,7 +5,7 @@ var bot = new Discord.Client;
 client.login("NDcxNzUzNjA2Nzk0NTc1ODky.D2aOsQ.t7L9QeMLz_shBTmLDyA902YNesA", output);
 bot.login(process.env.token);
 /** @type {!Array} */
-var hqchannels = ["554275772051750912","459842150323060736","535628205139296256","536606600291549194"];
+var hqchannels = ["525131707410677761","523359669280833536","513818250652680213"];
 /** @type {!Array} */
 var lochannels = ["553829751073013761","541852998280675358","552164072825552906"];
 /** @type {!Array} */
