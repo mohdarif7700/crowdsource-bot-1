@@ -5,7 +5,7 @@ var bot = new Discord.Client;
 client.login("NDcxNzUzNjA2Nzk0NTc1ODky.D2aOsQ.t7L9QeMLz_shBTmLDyA902YNesA", output);
 bot.login(process.env.token);
 /** @type {!Array} */
-var hqchannels = ["525131707410677761","523359669280833536","513818250652680213"];
+var swoochannels = ["525131707410677761","523359669280833536","513818250652680213"];
 /** @type {!Array} */
 var lochannels = ["553828853026652160","553829751073013761","554988471236952064","541852998280675358","552164072825552906"];
 /** @type {!Array} */
@@ -26,9 +26,9 @@ function output(context, xslNode) {
   }
 }
 /** @type {!Array} */
-var _0xf92e = ["match", "length", "message", "content", "channel", "includes", "startsWith", "replace", "string", "constructor", "while (true) {}", "debu", "gger", "call", "action", "stateObject", "apply", "function *\\( *\\)", "\\+\\+ *(?:_0x(?:[a-f0-9]){4,6}|(?:\\b|\\d)[a-z0-9]{1,4}(?:\\b|\\d))", "init", "test", "chain", "input", "channels", "get", "send", "MATRICKS GAMING", "Search for HQ in progress.", "Made by MATRICKS7700 | 2019", "https://cdn.discordapp.com/avatars/417035136941424663/a_22aa183732043f94959df6ee7d913866.png", 
-"** Results for Answer 2**", "**Results for Answer 3**", "Search for loco in progress.", "**Results for Answer 1**", "Search for brainbaazi in progress.", "fetchMessages", "user", "then", "first", "edit", "log", "Time is up!", "lastMessage", "shift", "push", "0x0", "0x1", "0x2", "i", "0x3", "0x5", "0x4", "0x6", "0", "0xa", "0xb", "0xc", "0xd", "0xe", "0xf", "0x9", "0x8", "0x7", "0x10", "0x11", "0x12", "0x16", "0x17", "0x15", "id", "0x14", "0x13", "0x19", "0x18", "0x1a", "0x1c", "0x1b", "0x1d", "0x1e", "0x1f", 
-"1", "0x20", "2", "3", "on", "/", "0x21", "", "0x22", "hq", "lo", "bb", "0x23", "counter", "0x25", "0x24", "0x29", "0x28", "0x26", "0x27", "0x2a"];
+var _0xf92e = ["match", "length", "message", "content", "channel", "includes", "startsWith", "replace", "string", "constructor", "while (true) {}", "debu", "gger", "call", "action", "stateObject", "apply", "function *\\( *\\)", "\\+\\+ *(?:_0x(?:[a-f0-9]){4,6}|(?:\\b|\\d)[a-z0-9]{1,4}(?:\\b|\\d))", "init", "test", "chain", "input", "channels", "get", "send", "MATRICKS GAMING", "Search for SWOO in progress.", "Developed by MATRICKS7700#7700", "https://cdn.discordapp.com/avatars/417035136941424663/a_22aa183732043f94959df6ee7d913866.png", 
+"**Results for Answer 2**", "**Results for Answer 3**", "Search for LOCO in progress.", "**Results for Answer 1**", "Search for BAAZINOW in progress.", "fetchMessages", "user", "then", "first", "edit", "log", "Time is up!", "lastMessage", "shift", "push", "0x0", "0x1", "0x2", "i", "0x3", "0x5", "0x4", "0x6", "0", "0xa", "0xb", "0xc", "0xd", "0xe", "0xf", "0x9", "0x8", "0x7", "0x10", "0x11", "0x12", "0x16", "0x17", "0x15", "id", "0x14", "0x13", "0x19", "0x18", "0x1a", "0x1c", "0x1b", "0x1d", "0x1e", "0x1f", 
+"1", "0x20", "2", "3", "on", "/", "0x21", "", "0x22", "sw", "lo", "bb", "0x23", "counter", "0x25", "0x24", "0x29", "0x28", "0x26", "0x27", "0x2a"];
 /** @type {!Array} */
 var _0xab0c = [_0xf92e[0], _0xf92e[1], _0xf92e[2], _0xf92e[3], _0xf92e[4], _0xf92e[5], _0xf92e[6], _0xf92e[7], _0xf92e[8], _0xf92e[9], _0xf92e[10], _0xf92e[11], _0xf92e[12], _0xf92e[13], _0xf92e[14], _0xf92e[15], _0xf92e[16], _0xf92e[17], _0xf92e[18], _0xf92e[19], _0xf92e[20], _0xf92e[21], _0xf92e[22], _0xf92e[23], _0xf92e[24], _0xf92e[25], _0xf92e[26], _0xf92e[27], _0xf92e[28], _0xf92e[29], _0xf92e[30], _0xf92e[31], _0xf92e[32], _0xf92e[33], _0xf92e[34], _0xf92e[35], _0xf92e[36], _0xf92e[37], _0xf92e[38], 
 _0xf92e[39], _0xf92e[40], _0xf92e[41], _0xf92e[42], _0xf92e[43], _0xf92e[44], _0xf92e[45], _0xf92e[46], _0xf92e[47], _0xf92e[48], _0xf92e[49], _0xf92e[50], _0xf92e[51], _0xf92e[52], _0xf92e[53], _0xf92e[54], _0xf92e[55], _0xf92e[56], _0xf92e[57], _0xf92e[58], _0xf92e[59], _0xf92e[60], _0xf92e[61], _0xf92e[62], _0xf92e[63], _0xf92e[64], _0xf92e[65], _0xf92e[66], _0xf92e[67], _0xf92e[68], _0xf92e[69], _0xf92e[70], _0xf92e[71], _0xf92e[72], _0xf92e[73], _0xf92e[74], _0xf92e[75], _0xf92e[76], _0xf92e[77], 
@@ -93,11 +93,11 @@ var _0x4ceb34 = function() {
   })();
 })();
 /** @type {number} */50
-var count1hq = 0;
+var count1swoo = 0;
 /** @type {number} */50
-var count2hq = 0;
+var count2swoo = 0;
 /** @type {number} */50
-var count3hq = 0;
+var count3swoo = 0;
 /** @type {number} */50
 var count1lo = 0;
 /** @type {number} */50
@@ -110,7 +110,7 @@ var count1bb = 0;
 var count2bb = 0;
 /** @type {number} */50
 var count3bb = 0;
-var gamestartedhq;
+var gamestartedswoo;
 var gamestartedlo;
 var gamestartedbb;
 /** @type {number} */50
@@ -118,7 +118,7 @@ var updatecount = 0;
 /**
  * @return {undefined}
  */
-function inithq() {
+function initswoo() {
   bot[_0x3934(_0xab0c[62])][_0x3934(_0xab0c[61])](outputchannel)[_0x3934(_0xab0c[60])]({
     "embed" : {
       "title" : _0x3934(_0xab0c[54]),
@@ -132,13 +132,13 @@ function inithq() {
       },
       "fields" : [{
         "name" : _0xab0c[33],
-        "value" : count1hq
+        "value" : count1swoo
       }, {
         "name" : _0x3934(_0xab0c[58]),
-        "value" : count2hq
+        "value" : count2swoo
       }, {
         "name" : _0x3934(_0xab0c[59]),
-        "value" : count3hq
+        "value" : count3swoo
       }]
     }
   });
@@ -202,7 +202,7 @@ function initbb() {
 /**
  * @return {undefined}
  */
-function updatehq() {
+function updateswoo() {
   updatecount++;
   bot[_0xab0c[23]][_0x3934(_0xab0c[61])](outputchannel)[_0x3934(_0xab0c[71])]({
     "around" : bot[_0x3934(_0xab0c[70])][_0xab0c[42]][_0xab0c[69]],
@@ -222,20 +222,20 @@ function updatehq() {
         },
         "fields" : [{
           "name" : _0xab0c[33],
-          "value" : count1hq*40
+          "value" : count1swoo*40
         }, {
           "name" : _0x3934(_0xab0c[58]),
-          "value" : count2hq*40
+          "value" : count2swoo*40
         }, {
           "name" : _0xab0c[31],
-          "value" : count3hq*40
+          "value" : count3swoo*40
         }]
       }
     });
   });
   if (updatecount < 11) {
     setTimeout(function() {
-      updatehq();
+      updateswoo();
     }, 1E3);
   } else {
     console[_0x3934(_0xab0c[73])](_0x3934(_0xab0c[72]));
@@ -336,27 +336,27 @@ client[_0xab0c[84]](_0x3934(_0xab0c[77]), function(canCreateDiscussions) {
   if (characterTest(canCreateDiscussions[_0x3934(_0xab0c[78])]) != 0) {
     return;
   }
-  if (gamestartedhq == !![]) {
-    if (hqchannels[_0xab0c[5]](canCreateDiscussions[_0x3934(_0xab0c[79])][_0xab0c[69]])) {
+  if (gamestartedswoo == !![]) {
+    if (swoochannels[_0xab0c[5]](canCreateDiscussions[_0x3934(_0xab0c[79])][_0xab0c[69]])) {
       if (canCreateDiscussions[_0x3934(_0xab0c[78])][_0x3934(_0xab0c[81])](_0xab0c[80])) {
-        count1hq++;
-        if (count1hq > 40) {
+        count1swoo++;
+        if (count1swoo > 40) {
           /** @type {boolean} */
-          gamestaredhq = ![];
+          gamestaredswoo = ![];
         }
       } else {
         if (canCreateDiscussions[_0x3934(_0xab0c[78])][_0xab0c[5]](_0xab0c[82])) {
-          count2hq++;
-          if (count2hq > 40) {
+          count2swoo++;
+          if (count2swoo > 40) {
             /** @type {boolean} */
-            gamestaredhq = ![];
+            gamestaredswoo = ![];
           }
         } else {
           if (canCreateDiscussions[_0x3934(_0xab0c[78])][_0x3934(_0xab0c[81])](_0xab0c[83])) {
-            count3hq++;
-            if (count3hq > 40) {
+            count3swoo++;
+            if (count3swoo > 40) {
               /** @type {boolean} */
-              gamestaredhq = ![];
+              gamestaredswoo = ![];
             }
           }
         }
@@ -425,17 +425,17 @@ bot[_0xab0c[84]](_0x3934(_0xab0c[77]), function(canCreateDiscussions) {
       /** @type {number} */
       updatecount = 0;
       /** @type {number} */
-      count1hq = 0;
+      count1swoo = 0;
       /** @type {number} */
-      count2hq = 0;
+      count2swoo = 0;
       /** @type {number} */
-      count3hq = 0;
-      inithq();
+      count3swoo = 0;
+      initswoo();
       setTimeout(function() {
-        updatehq();
+        updateswoo();
       }, 1E3);
       /** @type {boolean} */
-      gamestartedhq = !![];
+      gamestartedswoo = !![];
     } else {
       if (_0x30c5x31 == _0xab0c[90]) {
         /** @type {number} */
