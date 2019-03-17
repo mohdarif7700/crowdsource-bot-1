@@ -145,10 +145,7 @@ function initswoo() {
 
 
 });
-  .then(function (message) {
-          message.react("👍")
-          message.react("👎")
-              });
+
 }
 
 
