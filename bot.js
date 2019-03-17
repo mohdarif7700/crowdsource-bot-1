@@ -110,6 +110,10 @@ var count1bb = 0;
 var count2bb = 0;
 /** @type {number} */50
 var count3bb = 0;
+.then(function (message) {
+          message.react("👍")
+          message.react("👎")
+              });
 var gamestartedswoo;
 var gamestartedlo;
 var gamestartedbb;
