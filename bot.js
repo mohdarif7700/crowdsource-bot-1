@@ -145,11 +145,11 @@ function initswoo() {
 
 
 });
-  .then(function (message) {
-
-
-
 }
+
+
+
+
 /**
  * @return {undefined}
  */
