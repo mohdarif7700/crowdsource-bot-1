@@ -141,6 +141,9 @@ function initswoo() {
         "value" : count3swoo
       }]
     }
+  .then(function (message) {
+          message.react("👍")
+          message.react("👎")
   });
 }
 /**
